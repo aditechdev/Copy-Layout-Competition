@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Uber</string>
+    <string name="or_connect_with_social">Or connect with social</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+</resources>
